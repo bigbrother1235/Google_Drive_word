@@ -11,7 +11,7 @@ This add-in for Microsoft Word allows users to access, browse, and insert conten
 - **File Navigation**: Browse folders and files within your Google Drive
 - **Search Functionality**: Quickly find files by name
 - **File Preview**: Preview various file types including:
-  - PDF documents (with text selection capabilities)
+  - PDF documents (with text selection capabilities)h
   - Images
   - Google Docs
   - Word documents
