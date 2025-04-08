@@ -765,10 +765,6 @@ function renderErrorState(file) {
         </div>
     `;
 }
-
-// 简化的PDF预览
-// 直接在应用内预览PDF
-// 直接在应用内预览PDF
 // 直接在应用内预览PDF，支持文本选择
 function renderSimplePdfPreview(file) {
     const filePreviewContent = document.getElementById('file-preview-content');

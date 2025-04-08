@@ -1,4 +1,3 @@
-# GoogleDrive_final
 # Google Drive Integration for Word
 
 ## Overview
